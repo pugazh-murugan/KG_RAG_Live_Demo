@@ -1,0 +1,7 @@
+TechNova Corp is an artificial intelligence company founded in 2018 by Dr. Elena Vance and Marcus Sterling. The company is headquartered in San Francisco, California. 
+
+In 2021, TechNova Corp developed Project Aether, a breakthrough quantum computing engine designed to accelerate large language model training. Dr. Elena Vance serves as the Chief Executive Officer of TechNova Corp, while Marcus Sterling acts as the Chief Technology Officer.
+
+In early 2023, TechNova Corp acquired DataStream Analytics, a cloud infrastructure startup based in Austin, Texas. Following the acquisition, DataStream Analytics founder Sarah Jenkins joined TechNova Corp as the Vice President of Cloud Operations. Together, the combined engineering teams integrated DataStream Analytics' pipeline tools directly into Project Aether.
+
+TechNova Corp maintains a strategic partnership with GlobalBank Financial, headquartered in New York City, to deploy Project Aether for real-time fraud detection. GlobalBank Financial's Chief Information Officer, David Chen, oversees the integration alongside Sarah Jenkins.
